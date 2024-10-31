@@ -1,0 +1,3 @@
+./server/target
+./messager_client/src-tauri/target
+./messager_client/src-tauri/gen/schemas
